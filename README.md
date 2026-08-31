@@ -72,6 +72,21 @@
       <p><img src="https://unpkg.com/lucide-static@latest/icons/lock.svg" width="16" height="16" align="bottom" /> Private Repo</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><img src="https://unpkg.com/lucide-static@latest/icons/brain.svg" width="20" height="20" align="bottom" /> <a href="https://github.com/xi-kki/gaid3">Gaid3</a></h3>
+      <p><b>Web3 Onboarding AI Agent</b></p>
+      <p>A calm, patient Web3 onboarding AI agent with sovereign memory on Walrus Protocol. Features zkLogin authentication (Sui), pre-flight safety scanning, and step-by-step guidance for crypto newcomers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Walrus-Protocol-6d28d9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Sui-zkLogin-4da2ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Groq-AI-10a54a?style=flat-square" />
+      </p>
+      <p><img src="https://unpkg.com/lucide-static@latest/icons/link.svg" width="16" height="16" align="bottom" /> <a href="https://gaid3.vercel.app">Live Demo <img src="https://unpkg.com/lucide-static@latest/icons/arrow-right.svg" width="14" height="14" align="bottom" /></a></p>
+    </td>
+    <td width="50%" align="center">
+    </td>
+  </tr>
 </table>
 
 ---
