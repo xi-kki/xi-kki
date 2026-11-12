@@ -3,16 +3,25 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6D28D9&center=true&vCenter=true&random=false&width=500&lines=AI+Agent+Engineer;Web3+Developer;Foodtech+Innovator;Zero+Cup+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6D28D9&center=true&vCenter=true&random=false&width=500&lines=Forward+Deployed+Engineer;AI+Agents+for+Food-Tech;Web3+Developer;Zero+Cup+Builder" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <b>Building the intersection of AI agents, Web3, and foodtech innovation</b>
+  <b>Forward Deployed Engineer: I ship working AI agents for food-tech founders.</b>
 </p>
 
 <p align="center">
-  <a href="https://xi-kki.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-xi--kki.vercel.app-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://xi-kki.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-xi--kki.github.io-6d28d9?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://xi-kki.github.io/agents/">
+    <img src="https://img.shields.io/badge/Agents-Try_them_live-0f5c3a?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/adelekeisaac">
+    <img src="https://img.shields.io/badge/LinkedIn-adelekeisaac-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://thexikkibrief.substack.com">
+    <img src="https://img.shields.io/badge/Newsletter-The_Xikki_Brief-ff6719?style=for-the-badge&logo=substack&logoColor=white" />
   </a>
   <a href="mailto:xikki.locker@gmail.com">
     <img src="https://img.shields.io/badge/Email-xikki.locker%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" />
