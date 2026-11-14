@@ -7,7 +7,8 @@
 </h1>
 
 <p align="center">
-  <b>Forward Deployed Engineer: I ship working AI agents for food-tech founders.</b>
+  <b>Forward Deployed Engineer: I ship working AI agents for food-tech founders.</b><br>
+  20+ projects shipped · 17+ live · @Paiye_Bot 1K+ commands · domain agents for African food-tech
 </p>
 
 <p align="center">
@@ -17,8 +18,8 @@
   <a href="https://xi-kki.github.io/agents/">
     <img src="https://img.shields.io/badge/Agents-Try_them_live-0f5c3a?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/adelekeisaac">
-    <img src="https://img.shields.io/badge/LinkedIn-adelekeisaac-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/adelekebright/">
+    <img src="https://img.shields.io/badge/LinkedIn-adelekebright-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://thexikkibrief.substack.com">
     <img src="https://img.shields.io/badge/Newsletter-The_Xikki_Brief-ff6719?style=for-the-badge&logo=substack&logoColor=white" />
@@ -30,70 +31,63 @@
 
 ---
 
+### How I work (forward deployed)
+1. **Sit with the user**: map the actual workflow, not the stated one
+2. **Ship in days**: AI-native build with Claude Code, deployed to a URL they can use
+3. **Measure**: usage, accuracy checks, feedback loop
+4. **Iterate or kill**: change what the data says to change
+
+---
+
 ## <img src="https://unpkg.com/lucide-static@latest/icons/rocket.svg" width="28" height="28" align="bottom" /> Featured Projects
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3><img src="https://unpkg.com/lucide-static@latest/icons/diamond.svg" width="20" height="20" align="bottom" /> <a href="https://github.com/xi-kki/veridd">VERID</a></h3>
-      <p><b>True Identity for AI Agents</b></p>
-      <p>A decentralized reputation & identity protocol on 0G (Chain + Storage + Compute + Agentic ID). Enables trustless identity verification and sybil resistance for AI agents.</p>
-      <p>
-        <img src="https://img.shields.io/badge/0G-Chain-6d28d9?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI_Agents-Identity-2563eb?style=flat-square" />
-        <img src="https://img.shields.io/badge/Zero_Cup_2026-Entry-f59e0b?style=flat-square" />
-      </p>
-      <p><img src="https://unpkg.com/lucide-static@latest/icons/star.svg" width="16" height="16" align="bottom" /> Zero Cup 2026 · <a href="https://github.com/xi-kki/veridd">View Repo <img src="https://unpkg.com/lucide-static@latest/icons/arrow-right.svg" width="14" height="14" align="bottom" /></a></p>
-    </td>
-    <td width="50%" align="center">
-      <h3><img src="https://unpkg.com/lucide-static@latest/icons/waves.svg" width="20" height="20" align="bottom" /> <a href="https://github.com/xi-kki/Floe">Floe</a></h3>
-      <p><b>Trustless AI Agent Escrow on Sui</b></p>
-      <p>Decentralized escrow enabling trustless payments between humans and AI agents with Sui Move smart contracts, on-chain verification, and programmable escrow.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Sui-Blockchain-4da2ff?style=flat-square" />
-        <img src="https://img.shields.io/badge/Move-Smart_Contracts-00b894?style=flat-square" />
-        <img src="https://img.shields.io/badge/Escrow-DeFi-f59e0b?style=flat-square" />
-      </p>
-      <p><img src="https://unpkg.com/lucide-static@latest/icons/link.svg" width="16" height="16" align="bottom" /> <a href="https://github.com/xi-kki/Floe">View Repo <img src="https://unpkg.com/lucide-static@latest/icons/arrow-right.svg" width="14" height="14" align="bottom" /></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
       <h3><img src="https://unpkg.com/lucide-static@latest/icons/clipboard-list.svg" width="20" height="20" align="bottom" /> <a href="https://github.com/xi-kki/zareb">Zareb</a></h3>
-      <p><b>AI Compliance Document Checker</b></p>
-      <p>AI-powered compliance gap analysis for African foodtech founders exporting to EU/UK markets. Upload HACCP, FSSC, BRC docs for instant regulatory scoring.</p>
+      <p><b>AI compliance agent</b></p>
+      <p>Reads HACCP plans, labels and audit reports and flags the gaps that block EU/UK export for African food manufacturers.</p>
       <p>
-        <img src="https://img.shields.io/badge/Groq-AI-10a54a?style=flat-square" />
         <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square" />
         <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Groq-AI-10a54a?style=flat-square" />
       </p>
-      <p><img src="https://unpkg.com/lucide-static@latest/icons/zap.svg" width="16" height="16" align="bottom" /> <a href="https://github.com/xi-kki/zareb">View Repo <img src="https://unpkg.com/lucide-static@latest/icons/arrow-right.svg" width="14" height="14" align="bottom" /></a></p>
+      <p><a href="https://github.com/xi-kki/zareb">View repo <img src="https://unpkg.com/lucide-static@latest/icons/arrow-right.svg" width="14" height="14" align="bottom" /></a> · <a href="https://zareb.vercel.app">Live <img src="https://unpkg.com/lucide-static@latest/icons/arrow-right.svg" width="14" height="14" align="bottom" /></a></p>
     </td>
     <td width="50%" align="center">
-      <h3><img src="https://unpkg.com/lucide-static@latest/icons/heart.svg" width="20" height="20" align="bottom" /> <a href="https://github.com/xi-kki/Kraiiv">Kraiiv</a></h3>
-      <p><b>Wellness Rewards Platform for Africa</b></p>
-      <p>A culturally-aware wellness platform combining habit tracking, community challenges, and tokenized incentives — making wellness a movement.</p>
+      <h3><img src="https://unpkg.com/lucide-static@latest/icons/send.svg" width="20" height="20" align="bottom" /> <a href="https://github.com/xi-kki/paiye-bot">Paiye Bot</a></h3>
+      <p><b>Career agent on Telegram · 1K+ commands served</b></p>
+      <p>Scrapes 9 remote job boards, filters for roles open to Nigeria, scores matches against your resume and sends a daily 7AM digest.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-Framework-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vite-Build-646CFF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Telegram-Bot-26A5E4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Node.js-Runtime-339933?style=flat-square" />
+        <img src="https://img.shields.io/badge/Groq-AI-10a54a?style=flat-square" />
       </p>
-      <p><img src="https://unpkg.com/lucide-static@latest/icons/lock.svg" width="16" height="16" align="bottom" /> Private Repo</p>
+      <p><a href="https://github.com/xi-kki/paiye-bot">View repo <img src="https://unpkg.com/lucide-static@latest/icons/arrow-right.svg" width="14" height="14" align="bottom" /></a> · <a href="https://t.me/Paiye_Bot">Open bot <img src="https://unpkg.com/lucide-static@latest/icons/arrow-right.svg" width="14" height="14" align="bottom" /></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3><img src="https://unpkg.com/lucide-static@latest/icons/brain.svg" width="20" height="20" align="bottom" /> <a href="https://github.com/xi-kki/gaid3">Gaid3</a></h3>
-      <p><b>Web3 Onboarding AI Agent</b></p>
-      <p>A calm, patient Web3 onboarding AI agent with sovereign memory on Walrus Protocol. Features zkLogin authentication (Sui), pre-flight safety scanning, and step-by-step guidance for crypto newcomers.</p>
+      <h3><img src="https://unpkg.com/lucide-static@latest/icons/mic.svg" width="20" height="20" align="bottom" /> <a href="https://github.com/xi-kki/sousy">Sousy</a></h3>
+      <p><b>Voice agent for kitchen inventory</b></p>
+      <p>Hands-free stock counts for commercial kitchens: speak what you have, get counts, reorder alerts and waste tracking.</p>
       <p>
-        <img src="https://img.shields.io/badge/Walrus-Protocol-6d28d9?style=flat-square" />
-        <img src="https://img.shields.io/badge/Sui-zkLogin-4da2ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Voice-AI-ff6719?style=flat-square" />
         <img src="https://img.shields.io/badge/Groq-AI-10a54a?style=flat-square" />
+        <img src="https://img.shields.io/badge/Food--tech-Ops-0f5c3a?style=flat-square" />
       </p>
-      <p><img src="https://unpkg.com/lucide-static@latest/icons/link.svg" width="16" height="16" align="bottom" /> <a href="https://gaid3.vercel.app">Live Demo <img src="https://unpkg.com/lucide-static@latest/icons/arrow-right.svg" width="14" height="14" align="bottom" /></a></p>
+      <p><a href="https://github.com/xi-kki/sousy">View repo <img src="https://unpkg.com/lucide-static@latest/icons/arrow-right.svg" width="14" height="14" align="bottom" /></a> · <a href="https://sousy-two.vercel.app">Live <img src="https://unpkg.com/lucide-static@latest/icons/arrow-right.svg" width="14" height="14" align="bottom" /></a></p>
     </td>
     <td width="50%" align="center">
+      <h3><img src="https://unpkg.com/lucide-static@latest/icons/diamond.svg" width="20" height="20" align="bottom" /> <a href="https://github.com/xi-kki/veridd">VERIDD</a></h3>
+      <p><b>On-chain reputation for AI agents</b></p>
+      <p>Agentic ID (ERC-7857), immutable action logs and peer-review agents on 0G, so you can verify an agent before you trust it.</p>
+      <p>
+        <img src="https://img.shields.io/badge/0G-Chain-6d28d9?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI_Agents-Trust-2563eb?style=flat-square" />
+        <img src="https://img.shields.io/badge/Zero_Cup_2026-Entry-f59e0b?style=flat-square" />
+      </p>
+      <p><a href="https://github.com/xi-kki/veridd">View repo <img src="https://unpkg.com/lucide-static@latest/icons/arrow-right.svg" width="14" height="14" align="bottom" /></a> · <a href="https://veridd.vercel.app">Live <img src="https://unpkg.com/lucide-static@latest/icons/arrow-right.svg" width="14" height="14" align="bottom" /></a></p>
     </td>
   </tr>
 </table>
